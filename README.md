@@ -58,7 +58,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-				
+![](https://raw.githubusercontent.com/apiradee39/LAB-01/3ea46709d94a3a2375d6f95449b749c95de1c3de/imgs/1.2.png)	
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
